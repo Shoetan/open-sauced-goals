@@ -1,45 +1,45 @@
 [
   {
     "full_name": "gin-gonic/gin",
-    "stargazers_count": 71960,
-    "open_issues_count": 757,
-    "forks_count": 7719
+    "stargazers_count": 72027,
+    "open_issues_count": 759,
+    "forks_count": 7724
   },
   {
     "full_name": "golang/go",
-    "stargazers_count": 114985,
-    "open_issues_count": 8702,
-    "forks_count": 17258
+    "stargazers_count": 115053,
+    "open_issues_count": 8724,
+    "forks_count": 17275
   },
   {
     "full_name": "shadcn-ui/ui",
-    "stargazers_count": 33151,
-    "open_issues_count": 811,
-    "forks_count": 1641
+    "stargazers_count": 33392,
+    "open_issues_count": 816,
+    "forks_count": 1648
   },
   {
     "full_name": "shadcn-ui/taxonomy",
-    "stargazers_count": 15457,
+    "stargazers_count": 15510,
     "open_issues_count": 146,
-    "forks_count": 1985
+    "forks_count": 1996
   },
   {
     "full_name": "kunal-kushwaha/DSA-Bootcamp-Java",
-    "stargazers_count": 13622,
-    "open_issues_count": 406,
-    "forks_count": 9001
+    "stargazers_count": 13663,
+    "open_issues_count": 407,
+    "forks_count": 9022
   },
   {
     "full_name": "ArslanYM/StarterHive",
-    "stargazers_count": 181,
-    "open_issues_count": 49,
-    "forks_count": 168
+    "stargazers_count": 182,
+    "open_issues_count": 50,
+    "forks_count": 172
   },
   {
     "full_name": "lukasz-madon/awesome-remote-job",
-    "stargazers_count": 26725,
+    "stargazers_count": 26749,
     "open_issues_count": 26,
-    "forks_count": 2797
+    "forks_count": 2807
   },
   {
     "full_name": "YourAverageTechBro/SWEProjects",
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "FrancescoXX/4c-site",
-    "stargazers_count": 198,
-    "open_issues_count": 16,
-    "forks_count": 154
+    "stargazers_count": 207,
+    "open_issues_count": 24,
+    "forks_count": 159
   },
   {
     "full_name": "Stoccoin-Official/Stoccoin-Website",
@@ -61,20 +61,20 @@
   },
   {
     "full_name": "pushkaraj2007/TechCreators",
-    "stargazers_count": 46,
+    "stargazers_count": 47,
     "open_issues_count": 16,
     "forks_count": 81
   },
   {
     "full_name": "EddieHubCommunity/BioDrop",
-    "stargazers_count": 4873,
-    "open_issues_count": 115,
-    "forks_count": 3711
+    "stargazers_count": 4901,
+    "open_issues_count": 109,
+    "forks_count": 3727
   },
   {
     "full_name": "TechIsHiring/techishiring-website",
     "stargazers_count": 49,
-    "open_issues_count": 34,
+    "open_issues_count": 35,
     "forks_count": 33
   }
 ]
