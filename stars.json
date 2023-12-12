@@ -1,51 +1,57 @@
 [
   {
+    "full_name": "JohnCrickett/SystemDesign",
+    "stargazers_count": 463,
+    "open_issues_count": 0,
+    "forks_count": 53
+  },
+  {
     "full_name": "avelino/awesome-go",
-    "stargazers_count": 112814,
-    "open_issues_count": 177,
-    "forks_count": 11494
+    "stargazers_count": 113018,
+    "open_issues_count": 185,
+    "forks_count": 11499
   },
   {
     "full_name": "gin-gonic/gin",
-    "stargazers_count": 72917,
-    "open_issues_count": 767,
-    "forks_count": 7789
+    "stargazers_count": 72981,
+    "open_issues_count": 768,
+    "forks_count": 7790
   },
   {
     "full_name": "golang/go",
-    "stargazers_count": 116228,
-    "open_issues_count": 8906,
-    "forks_count": 17430
+    "stargazers_count": 116302,
+    "open_issues_count": 8914,
+    "forks_count": 17435
   },
   {
     "full_name": "shadcn-ui/ui",
-    "stargazers_count": 36463,
-    "open_issues_count": 900,
-    "forks_count": 1891
+    "stargazers_count": 36622,
+    "open_issues_count": 916,
+    "forks_count": 1900
   },
   {
     "full_name": "shadcn-ui/taxonomy",
-    "stargazers_count": 15967,
+    "stargazers_count": 15984,
     "open_issues_count": 159,
-    "forks_count": 2102
+    "forks_count": 2111
   },
   {
     "full_name": "kunal-kushwaha/DSA-Bootcamp-Java",
-    "stargazers_count": 14065,
+    "stargazers_count": 14089,
     "open_issues_count": 431,
-    "forks_count": 9324
+    "forks_count": 9345
   },
   {
     "full_name": "ArslanYM/StarterHive",
-    "stargazers_count": 200,
-    "open_issues_count": 49,
-    "forks_count": 198
+    "stargazers_count": 202,
+    "open_issues_count": 50,
+    "forks_count": 201
   },
   {
     "full_name": "lukasz-madon/awesome-remote-job",
-    "stargazers_count": 27078,
+    "stargazers_count": 27103,
     "open_issues_count": 30,
-    "forks_count": 2945
+    "forks_count": 2961
   },
   {
     "full_name": "YourAverageTechBro/SWEProjects",
@@ -73,9 +79,9 @@
   },
   {
     "full_name": "EddieHubCommunity/BioDrop",
-    "stargazers_count": 5428,
-    "open_issues_count": 76,
-    "forks_count": 3832
+    "stargazers_count": 5437,
+    "open_issues_count": 85,
+    "forks_count": 3834
   },
   {
     "full_name": "TechIsHiring/techishiring-website",
