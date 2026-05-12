@@ -1,8 +1,8 @@
 [
   {
     "full_name": "learntocloud/learn-to-cloud-app",
-    "stargazers_count": 474,
-    "open_issues_count": 0,
+    "stargazers_count": 486,
+    "open_issues_count": 5,
     "forks_count": 16
   },
   {
@@ -13,27 +13,27 @@
   },
   {
     "full_name": "mysticwillz/junior-dev-js-interview",
-    "stargazers_count": 614,
+    "stargazers_count": 615,
     "open_issues_count": 0,
     "forks_count": 55
   },
   {
     "full_name": "zhanymkanov/fastapi-best-practices",
-    "stargazers_count": 17195,
+    "stargazers_count": 17228,
     "open_issues_count": 12,
     "forks_count": 1259
   },
   {
     "full_name": "Shubhamsaboo/awesome-llm-apps",
-    "stargazers_count": 109168,
-    "open_issues_count": 7,
-    "forks_count": 16154
+    "stargazers_count": 109861,
+    "open_issues_count": 9,
+    "forks_count": 16258
   },
   {
     "full_name": "golang-standards/project-layout",
-    "stargazers_count": 55929,
+    "stargazers_count": 55957,
     "open_issues_count": 94,
-    "forks_count": 5446
+    "forks_count": 5449
   },
   {
     "full_name": "x-sushant-x/Rate-Shield",
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "systemdesign42/system-design-academy",
-    "stargazers_count": 24362,
+    "stargazers_count": 24452,
     "open_issues_count": 0,
-    "forks_count": 3046
+    "forks_count": 3086
   },
   {
     "full_name": "starkware-bitcoin/shinigami",
@@ -61,15 +61,15 @@
   },
   {
     "full_name": "practical-tutorials/project-based-learning",
-    "stargazers_count": 265090,
+    "stargazers_count": 265443,
     "open_issues_count": 299,
-    "forks_count": 34448
+    "forks_count": 34514
   },
   {
     "full_name": "microsoft/generative-ai-for-beginners",
-    "stargazers_count": 110350,
-    "open_issues_count": 8,
-    "forks_count": 59188
+    "stargazers_count": 110684,
+    "open_issues_count": 10,
+    "forks_count": 59369
   },
   {
     "full_name": "hyli-org/hyli",
@@ -85,15 +85,15 @@
   },
   {
     "full_name": "CodingChallengesFYI/SharedSolutions",
-    "stargazers_count": 3748,
+    "stargazers_count": 3750,
     "open_issues_count": 9,
     "forks_count": 748
   },
   {
     "full_name": "codecrafters-io/build-your-own-x",
-    "stargazers_count": 499768,
-    "open_issues_count": 478,
-    "forks_count": 47389
+    "stargazers_count": 500689,
+    "open_issues_count": 480,
+    "forks_count": 47478
   },
   {
     "full_name": "EddieHubCommunity/RepoRater",
@@ -103,80 +103,80 @@
   },
   {
     "full_name": "illacloud/illa-builder",
-    "stargazers_count": 12244,
+    "stargazers_count": 12245,
     "open_issues_count": 41,
-    "forks_count": 1203
+    "forks_count": 1202
   },
   {
     "full_name": "stenciljs/core",
     "stargazers_count": 13084,
-    "open_issues_count": 180,
+    "open_issues_count": 184,
     "forks_count": 838
   },
   {
     "full_name": "calcom/cal.diy",
-    "stargazers_count": 42395,
-    "open_issues_count": 1291,
-    "forks_count": 13160
+    "stargazers_count": 42467,
+    "open_issues_count": 1292,
+    "forks_count": 13191
   },
   {
     "full_name": "go-gorm/gorm",
-    "stargazers_count": 39729,
-    "open_issues_count": 520,
-    "forks_count": 4147
+    "stargazers_count": 39739,
+    "open_issues_count": 516,
+    "forks_count": 4145
   },
   {
     "full_name": "SigNoz/signoz",
-    "stargazers_count": 26825,
-    "open_issues_count": 1522,
-    "forks_count": 2148
+    "stargazers_count": 26873,
+    "open_issues_count": 1533,
+    "forks_count": 2155
   },
   {
     "full_name": "makeplane/plane",
-    "stargazers_count": 48871,
-    "open_issues_count": 770,
-    "forks_count": 4173
+    "stargazers_count": 49003,
+    "open_issues_count": 795,
+    "forks_count": 4201
   },
   {
     "full_name": "medusajs/medusa",
-    "stargazers_count": 32912,
-    "open_issues_count": 190,
-    "forks_count": 4362
+    "stargazers_count": 32958,
+    "open_issues_count": 184,
+    "forks_count": 4386
   },
   {
     "full_name": "mattermost/mattermost",
-    "stargazers_count": 36580,
-    "open_issues_count": 859,
-    "forks_count": 8594
+    "stargazers_count": 36668,
+    "open_issues_count": 851,
+    "forks_count": 8607
   },
   {
     "full_name": "avgupta456/github-trends",
-    "stargazers_count": 16050,
+    "stargazers_count": 16044,
     "open_issues_count": 46,
     "forks_count": 118
   },
   {
     "full_name": "JohnCrickett/SystemDesign",
-    "stargazers_count": 612,
+    "stargazers_count": 618,
     "open_issues_count": 0,
     "forks_count": 86
   },
   {
     "full_name": "avelino/awesome-go",
-    "stargazers_count": 172069,
-    "open_issues_count": 180,
-    "forks_count": 13194
+    "stargazers_count": 172427,
+    "open_issues_count": 183,
+    "forks_count": 13205
   },
   {
     "full_name": "gin-gonic/gin",
-    "stargazers_count": 88448,
+    "stargazers_count": 88477,
     "open_issues_count": 685,
-    "forks_count": 8608
+    "forks_count": 8606
   },
   {
     "full_name": "golang/go",
-    "stargazers_count": 133778,
-    "open_issues_count": 10102,
-    "forks_count": 18986
+    "stargazers_count": 133846,
+    "open_issues_count": 10124,
+    "forks_count": 18999
   }
 ]
